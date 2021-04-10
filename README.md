@@ -1,2 +1,1 @@
-# auto22
-Auto
+# mynn
